@@ -1,0 +1,16 @@
+.mainNavbar {
+  background-color: #363c49;
+  .mainNavbar__logo {
+    width: 3%;
+    margin-right: 5px;
+  }
+  .navbarCustom {
+    .navbarCustom__link {
+        cursor: pointer;
+      .avatar {
+        width: 20px;
+        margin-right: 10px;
+      }
+    }
+  }
+}
